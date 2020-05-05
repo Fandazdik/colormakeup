@@ -6,9 +6,9 @@ import os
 import time
 import datetime
 
-SINKFILE = '/home/pi/Desktop/PYTHON/Util/gifsplit/colourprofile.png'
-SOURCEFILE = '/home/pi/Downloads/sortedstuff/tragia-lucario.jpeg'
-TEMPFILE = '/home/pi/Desktop/PYTHON/Util/gifsplit/resulttest.png'
+SINKFILE = '/WHERE/TO/SAVE/RESULT/FILE'
+SOURCEFILE = '/IMAGE/FILE/TO/ANALYSE'
+TEMPFILE = '/WHERE/TO/TEMPORARILY/STORE/SOURCEFILE' #Preferably same directory as SINKFILE
 
 
 def get_hsv(im_link):
