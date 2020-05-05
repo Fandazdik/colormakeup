@@ -7,3 +7,7 @@ imageio and PIL
 (Can be installed with:)
 ```sudo pip3 install imageio```
 ```sudo pip3 install PIL```
+
+# General Notices
+- Can be slower with larger files
+  - So much so that Python runs out of memory
