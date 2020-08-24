@@ -6,7 +6,7 @@ Python 3 software (Downloadable at https://www.python.org/)
 imageio and PIL
 (Can be installed with:)
 ```sudo pip3 install imageio```
-```sudo pip3 install PIL```
+```sudo pip3 install pillow```
 
 # General Notices
 - Can be slower with larger files
